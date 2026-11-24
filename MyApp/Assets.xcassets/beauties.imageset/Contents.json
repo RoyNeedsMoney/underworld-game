@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "絨幕金影：天鵝絨俱樂部.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "絨幕金影：天鵝絨俱樂部 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "絨幕金影：天鵝絨俱樂部 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
